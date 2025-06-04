@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I am currently a final year student at Imperial College London. My interests lie in Transport Economics 🚂, Data Science 📈 and Software Engineering 👨‍💻!
+My interests lie in Transport Economics, data science, and software engineering!
 
 
 ## 🔗 Links
